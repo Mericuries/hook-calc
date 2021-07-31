@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hook-calc.git/static/css/main.de2e767a.chunk.css",
+    "main.js": "/hook-calc.git/static/js/main.2d4ef12a.chunk.js",
+    "main.js.map": "/hook-calc.git/static/js/main.2d4ef12a.chunk.js.map",
+    "runtime-main.js": "/hook-calc.git/static/js/runtime-main.089d8049.js",
+    "runtime-main.js.map": "/hook-calc.git/static/js/runtime-main.089d8049.js.map",
+    "static/js/2.8e7933ca.chunk.js": "/hook-calc.git/static/js/2.8e7933ca.chunk.js",
+    "static/js/2.8e7933ca.chunk.js.map": "/hook-calc.git/static/js/2.8e7933ca.chunk.js.map",
+    "index.html": "/hook-calc.git/index.html",
+    "static/css/main.de2e767a.chunk.css.map": "/hook-calc.git/static/css/main.de2e767a.chunk.css.map",
+    "static/js/2.8e7933ca.chunk.js.LICENSE.txt": "/hook-calc.git/static/js/2.8e7933ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.089d8049.js",
+    "static/js/2.8e7933ca.chunk.js",
+    "static/css/main.de2e767a.chunk.css",
+    "static/js/main.2d4ef12a.chunk.js"
+  ]
+}
